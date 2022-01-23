@@ -24,10 +24,9 @@
 <br />
 <br />
 ---
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="phuang68's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=phuang68&show_icons=true&hide_border=true" />
+  <img align="left" alt="phuang68's GitHub Stats" src="(https://github-readme-stats.vercel.app/api?username=phuang68" />
 
 </details>
