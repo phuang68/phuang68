@@ -1,10 +1,10 @@
 ### Hi there, I'm Bryan 👋 
 
-## I'm a new grad with a Honours degree in Computer Science
+## I'm a aspiring developer with a Honours degree in Computer Science
 
 - 🌱 I’m currently learning Vue, Node.js.
 - 🥅 2022 Goals: Land a good job
-- ⚡ Fun fact: I'm polyglot and love to learn languages, speaks Mandarin, Cantonese, English, Spanish, Hakka
+- ⚡ Fun fact: I'm a polyglot and love to learn languages, speaks Mandarin, Cantonese, English, Spanish, Hakka
 
 ### Languages and Tools:
 
