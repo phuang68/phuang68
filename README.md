@@ -1,6 +1,6 @@
 ### Hi there, I'm Bryan 👋 
 
-## I'm a aspiring developer with a Honours degree in Computer Science
+## I'm an aspiring developer with a Honours degree in Computer Science
 
 - 🌱 I’m currently learning Vue, Node.js.
 - 🥅 2022 Goals: Land a good job
