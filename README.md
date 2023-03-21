@@ -2,8 +2,8 @@
 
 ## I'm an aspiring developer with an Honours degree in Computer Science at Western University, Canada
 
-- 🌱 I’m currently learning Vue, Node.js.
-- 🥅 2022 Goals: Land a good job
+- 🌱 I’m currently learning webpack
+- 🥅 2023 Goals: Able to handle more tech tasks
 - ⚡ Fun fact: I'm a polyglot and love to learn languages, speaks Mandarin, Cantonese, English, Spanish, Hakka
 
 ### Languages and Tools:
