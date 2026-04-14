@@ -1,9 +1,9 @@
 ### Hi there, I'm Bryan 👋 
 
-## I'm an aspiring developer with an Honours degree in Computer Science at Western University, Canada
+## I'm an full stack developer with 3+ years of expereience in software development and an Honours degree in Computer Science at Western University, Canada
 
-- 🌱 I’m currently learning webpack
-- 🥅 2023 Goals: Able to handle more tech tasks
+- 🌱 I’m currently looking for a job (Full stack developer/Frontend Developer/Backend Developer) 
+- 🥅 2026 Goals: Land a job and learn AI engineer tech stacks
 - ⚡ Fun fact: I'm a polyglot and love to learn languages, speaks Mandarin, Cantonese, English, Spanish, Hakka
 
 ### Languages and Tools:
